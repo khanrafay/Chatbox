@@ -29,5 +29,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Chatbox Appp Test",
+  "main": "index.js",
+  "repository": "https://github.com/khanrafay/Chatbox.git",
+  "author": "Abdul Rafay Khan",
+  "license": "MIT"
 }
